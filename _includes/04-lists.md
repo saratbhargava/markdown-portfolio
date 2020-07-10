@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+My favorite topics in ML
+
+- Time series modelling
+
+- Density modelling
+
+- Skewed Classification problems
